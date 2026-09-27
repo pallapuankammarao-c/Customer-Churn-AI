@@ -84,8 +84,8 @@ customer-churn-ai/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/pallapuankammarao/customer-churn-ai.git
-cd customer-churn-ai
+git clone https://github.com/pallapuankammarao-c/Customer-Churn-AI.git
+cd Customer-Churn-AI
 ```
 
 ### 2. Create and Activate Virtual Environment
@@ -119,7 +119,7 @@ To make this dashboard accessible via a public web link for recruiters, portfoli
 1. **Push this project to your GitHub account** (see instructions below).
 2. Go to **[share.streamlit.io](https://share.streamlit.io/)** and sign in with GitHub.
 3. Click **"New app"**.
-4. Select your repository: `customer-churn-ai`.
+4. Select your repository: `pallapuankammarao-c/Customer-Churn-AI`.
 5. Set:
    - **Branch:** `main`
    - **Main file path:** `app.py`
@@ -147,7 +147,7 @@ git commit -m "feat: complete AI customer churn analytics and prediction dashboa
 git branch -M main
 
 # 5. Link to your GitHub repository (replace with your repo URL)
-git remote add origin https://github.com/pallapuankammarao/customer-churn-ai.git
+git remote add origin https://github.com/pallapuankammarao-c/Customer-Churn-AI.git
 
 # 6. Push code to GitHub
 git push -u origin main
@@ -173,5 +173,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ## 👤 Author
 
 **Ankamma Rao Pallapu**  
-- **GitHub:** [@pallapuankammarao](https://github.com/pallapuankammarao)  
+- **GitHub:** [@pallapuankammarao-c](https://github.com/pallapuankammarao-c)  
 - **Email:** [pallapuankamma035@gmail.com](mailto:pallapuankamma035@gmail.com)
