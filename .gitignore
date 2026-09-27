@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environment Variables & Secrets
+.env
+.streamlit/secrets.toml
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Database files
+*.db
+*.sqlite3
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# OS specific
+.DS_Store
+Thumbs.db
